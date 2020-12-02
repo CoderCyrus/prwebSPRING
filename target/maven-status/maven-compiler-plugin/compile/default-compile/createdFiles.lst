@@ -1,0 +1,13 @@
+org/centrale/prweb/repositories/ItemCustomRepositoryImpl.class
+org/centrale/prweb/controllers/StartupController.class
+org/centrale/prweb/repositories/CategoryRepository.class
+org/centrale/prweb/items/Item_.class
+org/centrale/prweb/repositories/ItemCustomRepository.class
+org/centrale/prweb/repositories/CategoryCustomRepositoryImpl.class
+org/centrale/prweb/controllers/ItemsController.class
+org/centrale/prweb/repositories/CategoryCustomRepository.class
+org/centrale/prweb/items/Item.class
+org/centrale/prweb/items/Category_.class
+org/centrale/prweb/controllers/User.class
+org/centrale/prweb/repositories/ItemRepository.class
+org/centrale/prweb/items/Category.class
